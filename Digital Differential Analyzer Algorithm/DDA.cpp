@@ -5,7 +5,7 @@ using namespace std ;
 
 int main()
 {
-    int gDriver = DETECT, gMode, errorcode ;
+    int gDriver = DETECT, gMode ;
 
     initgraph( &gDriver, &gMode, "") ;             // Graphics Driver and Graphics Mode
 
